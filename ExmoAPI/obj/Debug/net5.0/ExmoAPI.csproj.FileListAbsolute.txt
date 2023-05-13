@@ -1,0 +1,16 @@
+C:\Users\Администратор\source\repos\ExmoAPI\ExmoAPI\obj\Debug\net5.0\ExmoAPI.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\ExmoAPI\ExmoAPI\obj\Debug\net5.0\ExmoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\ExmoAPI\ExmoAPI\obj\Debug\net5.0\ExmoAPI.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\ExmoAPI\ExmoAPI\obj\Debug\net5.0\ExmoAPI.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\ExmoAPI\ExmoAPI\obj\Debug\net5.0\ExmoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\ExmoAPI\ExmoAPI\bin\Debug\net5.0\ExmoAPI.exe
+C:\Users\Администратор\source\repos\ExmoAPI\ExmoAPI\bin\Debug\net5.0\ExmoAPI.deps.json
+C:\Users\Администратор\source\repos\ExmoAPI\ExmoAPI\bin\Debug\net5.0\ExmoAPI.runtimeconfig.json
+C:\Users\Администратор\source\repos\ExmoAPI\ExmoAPI\bin\Debug\net5.0\ExmoAPI.runtimeconfig.dev.json
+C:\Users\Администратор\source\repos\ExmoAPI\ExmoAPI\bin\Debug\net5.0\ExmoAPI.dll
+C:\Users\Администратор\source\repos\ExmoAPI\ExmoAPI\bin\Debug\net5.0\ref\ExmoAPI.dll
+C:\Users\Администратор\source\repos\ExmoAPI\ExmoAPI\bin\Debug\net5.0\ExmoAPI.pdb
+C:\Users\Администратор\source\repos\ExmoAPI\ExmoAPI\obj\Debug\net5.0\ExmoAPI.dll
+C:\Users\Администратор\source\repos\ExmoAPI\ExmoAPI\obj\Debug\net5.0\ref\ExmoAPI.dll
+C:\Users\Администратор\source\repos\ExmoAPI\ExmoAPI\obj\Debug\net5.0\ExmoAPI.pdb
+C:\Users\Администратор\source\repos\ExmoAPI\ExmoAPI\obj\Debug\net5.0\ExmoAPI.genruntimeconfig.cache
